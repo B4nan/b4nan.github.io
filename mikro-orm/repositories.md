@@ -1,3 +1,4 @@
 ---
-redirect_to: "http://mikro-orm.io/repositories/"
+redirect_from: "/mikro-orm/repositories/"
+redirect_to: "https://mikro-orm.io/repositories/"
 ---
