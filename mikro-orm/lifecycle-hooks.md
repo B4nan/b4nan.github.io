@@ -1,3 +1,4 @@
 ---
-redirect_to: "http://mikro-orm.io/lifecycle-hooks/"
+redirect_from: "/mikro-orm/lifecycle-hooks/"
+redirect_to: "https://mikro-orm.io/lifecycle-hooks/"
 ---

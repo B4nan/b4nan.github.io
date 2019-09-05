@@ -1,3 +1,4 @@
 ---
-redirect_to: "http://mikro-orm.io/entity-helper/"
+redirect_from: "/mikro-orm/entity-helper/"
+redirect_to: "https://mikro-orm.io/entity-helper/"
 ---

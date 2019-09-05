@@ -1,3 +1,4 @@
 ---
-redirect_to: "http://mikro-orm.io/usage-with-sql/"
+redirect_from: "/mikro-orm/usage-with-sql/"
+redirect_to: "https://mikro-orm.io/usage-with-sql/"
 ---

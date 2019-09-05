@@ -1,3 +1,4 @@
 ---
-redirect_to: "http://mikro-orm.io/defining-entities/"
+redirect_from: "/mikro-orm/defining-entities/"
+redirect_to: "https://mikro-orm.io/defining-entities/"
 ---

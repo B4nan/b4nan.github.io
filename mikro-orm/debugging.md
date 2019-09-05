@@ -1,3 +1,4 @@
 ---
-redirect_to: "http://mikro-orm.io/debugging/"
+redirect_from: "/mikro-orm/debugging/"
+redirect_to: "https://mikro-orm.io/debugging/"
 ---
