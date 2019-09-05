@@ -1,3 +1,4 @@
 ---
-redirect_to: "http://mikro-orm.io/custom-driver/"
+redirect_from: /custom-driver/
+redirect_to: "https://mikro-orm.io/custom-driver/"
 ---
